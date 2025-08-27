@@ -24,15 +24,13 @@ Outside of tech, I’m an audio-cinephile who loves geeking out over music and f
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
 
-  <!-- Row 1 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=ambient_gradient&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" style="flex:1; min-width:300px; max-width: 33%;" />
 
-  <!-- Row 2 -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=ambient_gradient&hide_border=true" style="flex:1; min-width:300px; max-width: 33%;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="flex:1; min-width:300px; max-width: 33%;" />
 
 </div>
 
@@ -41,4 +39,5 @@ Outside of tech, I’m an audio-cinephile who loves geeking out over music and f
 [![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
