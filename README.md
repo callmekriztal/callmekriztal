@@ -2,7 +2,6 @@
 I’m currently diving into cybersecurity, machine learning, and app development.<br> 
 My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>
 Right now, I’m focused on solving picoCTF and OverTheWire challenges, and leveling up my Linux and cybersecurity skills.<br>
-Outside of tech, I’m an audio-cinephile who loves geeking out over music and film, and collaborating on cool music and film tech projects.
 
 ---
 
