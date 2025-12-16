@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hi+I%27m+Christy;Cybersecurity+Enthusiast;Backend+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=0e75b6&center=true&vCenter=true&width=520&lines=Hi+I%27m+Christy;Cybersecurity+Enthusiast;Backend+Developer"
     alt="Typing SVG"
   />
 </p>
