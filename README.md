@@ -28,9 +28,11 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/callmekriztal?template=classic&activity=1&activity.limit=5&config.timezone=Asia/Kolkata" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=callmekriztal&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
-
 
 
 
