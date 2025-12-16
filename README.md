@@ -28,8 +28,9 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github.com/callmekriztal/callmekriztal/blob/main/assets/github-skyline.svg" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=highcontrast&hide_border=true" />
 </p>
+
 
 
 
