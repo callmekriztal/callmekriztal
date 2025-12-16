@@ -7,27 +7,28 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 💫 About Me:
+## 💫 About Me:
 I’m currently diving into cybersecurity, , and backend development in Golang.<br>My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>Right now, I’m focused on solving cybersecurity labs , and practicing Golang, leveling up Backend development and cybersecurity skills.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2" />
 </p>
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2" />
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=highcontrast&hide_border=false)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2" />
 </p>
 
 
@@ -37,7 +38,7 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2" />
 </p>
 
 
