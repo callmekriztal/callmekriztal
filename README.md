@@ -24,3 +24,6 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
   <img src="https://komarev.com/ghpvc/?username=callmekriztal&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+I%27m+Kriztal;Full+Stack+Developer;Open+Source+Enthusiast" />
+</p>
