@@ -1,41 +1,21 @@
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 💫 About Me:
-I’m currently diving into cybersecurity, machine learning, and app development.<br> 
-My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>
-Right now, I’m focused on solving picoCTF and OverTheWire challenges, and leveling up my Linux and cybersecurity skills.<br>
+I’m currently diving into cybersecurity, , and backend development in Golang.<br>My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>Right now, I’m focused on solving cybersecurity labs , and practicing Golang, and leveling up Backend development and cybersecurity skills.
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christy-cyril-1a7951355) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crizty702@gmail.com) 
-
----
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-
----
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" style="flex:1; min-width:300px; max-width: 33%;" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=ambient_gradient&hide_border=true" style="flex:1; min-width:300px; max-width: 33%;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="flex:1; min-width:300px; max-width: 33%;" />
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=callmekriztal&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
