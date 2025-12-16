@@ -18,7 +18,6 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
   <img src="https://github.com/callmekriztal/callmekriztal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=1)](https://visitcount.itsvg.in)
 
