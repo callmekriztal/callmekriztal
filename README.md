@@ -20,7 +20,7 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 <p align="center">
-  <img src="https://github.com/callmekriztal/callmekriztal/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=callmekriztal&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
+
