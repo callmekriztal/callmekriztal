@@ -1,8 +1,7 @@
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=0e75b6&center=true&vCenter=true&width=520&lines=Hi+I%27m+Christy;Cybersecurity+Enthusiast;Backend+Developer"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1400&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I%27m+Christy;Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems"
+    alt="Typing Animation"
   />
 </p>
 
