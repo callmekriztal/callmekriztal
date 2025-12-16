@@ -28,8 +28,9 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmekriztal&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmekriztal&theme=high-contrast&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=callmekriztal&label=Visitors&color=0e75b6&style=for-the-badge" />
