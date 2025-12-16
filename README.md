@@ -9,7 +9,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
-I’m currently diving into cybersecurity, , and backend development in Golang.<br>My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>Right now, I’m focused on solving cybersecurity labs , and practicing Golang, and leveling up Backend development and cybersecurity skills.
+I’m currently diving into cybersecurity, , and backend development in Golang.<br>My curiosity drives me to learn fast and team up with anyone working on interesting or experimental ideas.<br>Right now, I’m focused on solving cybersecurity labs , and practicing Golang, leveling up Backend development and cybersecurity skills.
 
 
 # 💻 Tech Stack:
