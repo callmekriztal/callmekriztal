@@ -9,7 +9,7 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div><center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmekriztal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</center><div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=1)](https://visitcount.itsvg.in)
