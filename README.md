@@ -27,8 +27,10 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 [![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=callmekriztal&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmekriztal&theme=high-contrast&hide_border=true" />
 </p>
 
 
