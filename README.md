@@ -27,11 +27,15 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 [![](https://visitcount.itsvg.in/api?id=callmekriztal&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🟩 Contribution Calendar
+
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/callmekriztal?template=classic&calendar=1&base=0"
+    src="https://metrics.lecoq.io/callmekriztal?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&config.timezone=Asia/Kolkata&calendar=1"
+    alt="GitHub Contribution Calendar"
   />
 </p>
+
 
 
 
