@@ -27,5 +27,4 @@ I’m currently diving into cybersecurity, , and backend development in Golang.<
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=callmekriztal&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
-and
 
