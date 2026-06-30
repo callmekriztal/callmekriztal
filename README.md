@@ -13,14 +13,14 @@ Cybersecurity wasn't my destination, but it taught me Linux, which became one of
 Then I found AI. It clicked. Today I enjoy building AI-powered backends, learning new things, and understanding the complexities of both systems and people.
 
 ```console
-christy@github:~$ status
+kriztal@manjaro:~$ status
 
 Building      Document Assistant
 Learning      AI Automation
 Open to       AI / Back-End collaborations
 Interested    Understanding the complexities of systems and people
 
-christy@github:~$ contact
+kriztal@manjaro:~$ contact
 crizty702@gmail.com
 ```
 
